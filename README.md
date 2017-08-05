@@ -1,10 +1,10 @@
 !["The Evolution of Trust"](https://i.imgur.com/kde760y.png)
 
-#	本项目为[http://ncase.me/trust/](http://ncase.me/trust/)的非官方简体中文版，地址为[http://sekai.co/trust/](http://sekai.co/trust/)
+#	本專案為[http://ncase.me/trust/](http://ncase.me/trust/)的非官方繁體中文版。
 
-本作品 *信任的进化* （译名参考罗伯特·阿克塞尔罗德的《合作的进化》）属于公共领域，多亏了现有的知识共享许可和开源的资源，才能顺利地诞生！本项目用到的全部音乐、音效、以及代码列举如下：
+本作品 *信任的進化* （譯名參考羅伯特·阿克塞爾羅德的《合作的進化》）屬於公共領域，多虧了現有的知識共享許可和開源的資源，才能順利地誕生！本專案用到的全部音樂、音效、以及程式碼列舉如下：
 
-**音乐：** "Bleu" by Komiku (CC Zero). [在 Free Music Archive 上下载他们的整张专辑](http://freemusicarchive.org/music/Komiku/Its_time_for_adventure_/)
+**音樂：** "Bleu" by Komiku (CC Zero). [在 Free Music Archive 上下載他們的整張專輯](http://freemusicarchive.org/music/Komiku/Its_time_for_adventure_/)
 
 **音效：**
 
@@ -19,16 +19,16 @@
 * [Thump](https://freesound.org/people/Brokenphono/sounds/344149/) by Brokenphono (CC Zero)
 * [Fart](https://freesound.org/people/DSISStudios/sounds/241000/) by DSISStudios (CC Zero)
 
-**开源代码库：**
+**開源程式庫：**
 
-* [PIXI.js](http://www.pixijs.com/) 用于渲染图像
-* [Howler.js](https://howlerjs.com/) 用于声音
-* [Tween.js](http://www.createjs.com/tweenjs) 用于动画补间(感谢 V2EX 的 @geelaw 指正翻译)
-* [Balloon.css](https://kazzkiq.github.io/balloon.css/) 用于弹窗显示工具小提示
-* [Q](https://github.com/kriskowal/q/) 用于 promises
-* [MinPubSub](https://github.com/daniellmb/MinPubSub) 用于发布和订阅
-* [Pegasus](https://github.com/typicode/pegasus) 用于……我懒得不想写自己的 XHR
+* [PIXI.js](http://www.pixijs.com/) 用於渲染影象
+* [Howler.js](https://howlerjs.com/) 用於聲音
+* [Tween.js](http://www.createjs.com/tweenjs) 用於動畫補間(感謝 V2EX 的 @geelaw 指正翻譯)
+* [Balloon.css](https://kazzkiq.github.io/balloon.css/) 用於彈窗顯示工具小提示
+* [Q](https://github.com/kriskowal/q/) 用於 promises
+* [MinPubSub](https://github.com/daniellmb/MinPubSub) 用於釋出和訂閱
+* [Pegasus](https://github.com/typicode/pegasus) 用於……我懶得不想寫自己的 XHR
 
-#	"许可协议"
+#	許可協議
 
-[Creative Commons Zero](https://github.com/ncase/trust/blob/gh-pages/LICENSE): 本协议适用于对于公共领域的无私奉献，从根本上来说，您可以做任何事！欢迎署名，我不会对您追究任何法律责任。
+[Creative Commons Zero](https://github.com/ncase/trust/blob/gh-pages/LICENSE): 本協議適用於對於公共領域的無私奉獻，從根本上來說，您可以做任何事！歡迎署名，我不會對您追究任何法律責任。
