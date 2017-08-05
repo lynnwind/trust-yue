@@ -1,8 +1,8 @@
 !["The Evolution of Trust"](https://i.imgur.com/kde760y.png)
 
-#	本專案為[http://ncase.me/trust/](http://ncase.me/trust/)的非官方繁體中文版。
+#	本專案為[http://ncase.me/trust/](http://ncase.me/trust/)的非官方正體中文版。
 
-本作品 *信任的進化* （譯名參考羅伯特·阿克塞爾羅德的《合作的進化》）屬於公共領域，多虧了現有的知識共享許可和開源的資源，才能順利地誕生！本專案用到的全部音樂、音效、以及程式碼列舉如下：
+本作品 *信任的演化* （參考羅伯特．艾瑟羅德《合作的競化》）屬於公共領域，多虧了現有的知識共享許可和開源的資源，才能順利地誕生！本專案用到的全部音樂、音效、以及程式碼列舉如下：
 
 **音樂：** "Bleu" by Komiku (CC Zero). [在 Free Music Archive 上下載他們的整張專輯](http://freemusicarchive.org/music/Komiku/Its_time_for_adventure_/)
 
@@ -21,7 +21,7 @@
 
 **開源程式庫：**
 
-* [PIXI.js](http://www.pixijs.com/) 用於渲染影象
+* [PIXI.js](http://www.pixijs.com/) 用於渲染影像
 * [Howler.js](https://howlerjs.com/) 用於聲音
 * [Tween.js](http://www.createjs.com/tweenjs) 用於動畫補間(感謝 V2EX 的 @geelaw 指正翻譯)
 * [Balloon.css](https://kazzkiq.github.io/balloon.css/) 用於彈窗顯示工具小提示
